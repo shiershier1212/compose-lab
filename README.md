@@ -5,14 +5,14 @@
 ## 开发
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 
 生产构建：
 
 ```bash
-npm run build
+pnpm build
 ```
 
 ## 当前能力
